@@ -1,0 +1,126 @@
+header{
+  background-color: #24252A;
+  color: #edf0f1;
+}
+.heading img {
+  float: left;
+  width: auto;
+  height: 175px;
+  background: #555;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.heading h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;	
+}
+
+header h1{
+	color: yellow;
+}
+
+header h2{
+	color:yellow;
+}
+
+body{
+	background:white;
+
+}
+h2{
+
+  color: white;
+}
+#title{
+  font-size: 26px;  
+  letter-spacing:2px;
+  background-color:#333333;
+  margin-top: -43px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+img
+{
+	margin-left: 15px;
+	margin-top: 12px;
+	border-radius: 10px;
+}
+ul
+{
+  position: relative;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  background-color: #333333;
+
+
+  }
+li{
+    float: left;
+   padding-left: 18px;
+   margin-left: 5px;
+}
+li a{
+  padding-left: 20px;
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+
+}
+li a:hover{
+  background-color: #24252A;
+}
+.active{
+  background-color: #24252A;
+}
+body{
+  background-color: #fbfbfe;
+}
+.headtwo
+{
+  margin-top: -10px;
+}
+
+.para p{
+  text-indent: 4%;
+  color: #353539;
+  font-size: 130%;
+  text-align: justify;
+  line-height: 2;
+}
+.para h1{
+  text-align: center;
+  font-size: 20 0%;
+
+}
+ol li{
+  
+  list-style-type: disc;
+  float: none;
+  line-height: 2;
+ color: #353539;
+  font-size: 130%;
+}
+ ol
+{
+  background-color: white;
+padding-left: 9%;
+}
+#comitee p
+{
+  text-align: center;
+}
+.organinzer p
+{
+  text-align: center;
+  color: #353539;
+  font-size: 130%;
+   line-height: 1.5;
+}
